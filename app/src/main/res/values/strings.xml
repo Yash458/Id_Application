@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ID Application</string>
+<!--    <string name="hint_id">Please enter Id number</string>-->
+    <string name="submit">Submit</string>
+    <string name="hint_id">Please enter 13-digit Id number</string>
+    <string name="dob">Date Of Birth:</string>
+    <string name="gender">Gender:</string>
+    <string name="nationality">Nationality:</string>
+    <string name="newline">\n</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="indcit">IND Citizen</string>
+    <string name="permanent">Permanent Resident</string>
+</resources>
